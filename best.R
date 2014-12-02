@@ -1,3 +1,5 @@
+## Modificado
+
 best <- function(state, outcome) {
   ## Validate the outcome string
   outcomes = c("heart attack", "heart failure", "pneumonia")
